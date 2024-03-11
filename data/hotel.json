@@ -1,0 +1,110 @@
+[
+    {
+        "id": "H0t3l1",
+        "title": "Seaview Resort",
+        "location": "Cox's Bazar",
+        "img": "https://i.postimg.cc/G2D9RG0K/Rectangle-27.png",
+        "guests_number": 15,
+        "rooms": 8,
+        "beds": 5,
+        "description": "Seaview Resort offers a luxurious stay overlooking the picturesque Cox's Bazar beach. With spacious rooms and modern amenities, guests can relax in comfort while enjoying stunning ocean views. The resort features multiple dining options serving delicious local and international cuisine. Guests can unwind at the spa, take a dip in the pool, or enjoy beachside activities. With attentive service and a prime location, Seaview Resort provides an unforgettable experience for travelers seeking relaxation and indulgence.",
+        "price": 150,
+        "ratings": 4.5
+    },
+    {
+        "id": "H0t3l2",
+        "title": "Mangrove Lodge",
+        "location": "Sundarbans",
+        "img": "https://i.postimg.cc/LXj4wSf0/Rectangle-26.png",
+        "guests_number": 10,
+        "rooms": 8,
+        "beds": 5,
+        "description": "Mangrove Lodge offers a unique stay amidst the serene Sundarbans mangrove forest. The lodge provides comfortable accommodations with eco-friendly amenities, allowing guests to connect with nature while enjoying modern comforts. Visitors can embark on guided wildlife tours, explore nearby creeks, and observe exotic flora and fauna. The lodge's restaurant serves fresh, locally sourced cuisine, highlighting the flavors of the region. With its sustainable practices and immersive experiences, Mangrove Lodge offers an eco-conscious retreat for nature lovers.",
+        "price": 100,
+        "ratings": 4.2
+    },
+    {
+        "id": "H0t3l3",
+        "title": "Tea Garden Retreat",
+        "location": "Sylhet",
+        "img": "https://i.postimg.cc/SRqQpPfQ/Rectangle-28.png",
+        "guests_number": 20,
+        "rooms": 8,
+        "beds": 5,
+        "description": "Tea Garden Retreat is nestled amidst the lush greenery of Sylhet's tea estates, offering a tranquil escape from the hustle and bustle of city life. The retreat features cozy cottages with stunning views of the surrounding tea gardens and hills. Guests can explore the estate, participate in tea tasting sessions, or simply relax amidst nature's beauty. The retreat's restaurant serves delicious meals made with fresh, locally sourced ingredients. With its serene ambiance and personalized service, Tea Garden Retreat provides a rejuvenating experience for guests seeking peace and tranquility.",
+        "price": 120,
+        "ratings": 4.3
+    },
+    {
+        "id": "H0t3l4",
+        "title": "Beachfront Bliss Hotel",
+        "location": "Cox's Bazar",
+        "img": "https://i.postimg.cc/FRwjGJ8c/pic-4.jpg",
+        "guests_number": 8,
+        "rooms": 6,
+        "beds": 4,
+        "description": "Beachfront Bliss Hotel offers a serene retreat along the sandy shores of Cox's Bazar. Guests can enjoy comfortable accommodations with stunning views of the Bay of Bengal. The hotel features a beachfront restaurant serving fresh seafood and local delicacies. Visitors can relax by the pool, indulge in spa treatments, or explore nearby attractions. With its tranquil ambiance and attentive service, Beachfront Bliss Hotel provides an idyllic getaway for travelers seeking relaxation and rejuvenation.",
+        "price": 130,
+        "ratings": 4.4
+    },
+    {
+        "id": "H0t3l5",
+        "title": "Jungle Hideaway Resort",
+        "location": "Sundarbans",
+        "img": "https://i.postimg.cc/MHPJhq0y/pic-5.jpg",
+        "guests_number": 18,
+        "rooms": 7,
+        "beds": 5,
+        "description": "Jungle Hideaway Resort offers an immersive experience amidst the dense forests of the Sundarbans. Guests can stay in cozy cottages surrounded by lush greenery and abundant wildlife. The resort organizes guided jungle safaris, birdwatching excursions, and boat trips along the mangrove creeks. Visitors can savor delicious meals prepared with fresh local ingredients and relax in the tranquility of nature. With its eco-friendly practices and authentic jungle experience, Jungle Hideaway Resort is perfect for adventurous travelers.",
+        "price": 110,
+        "ratings": 4.1
+    },
+    {
+        "id": "H0t3l6",
+        "title": "Mountain Retreat Lodge",
+        "location": "Sylhet",
+        "img": "https://i.postimg.cc/3wvrm4Xz/pic-6.jpg",
+        "guests_number": 12,
+        "rooms": 5,
+        "beds": 3,
+        "description": "Mountain Retreat Lodge offers a peaceful escape amidst the scenic hills of Sylhet. Guests can unwind in cozy rooms with breathtaking views of the surrounding mountains and valleys. The lodge provides guided hikes, birdwatching tours, and cultural experiences to explore the beauty of the region. Guests can enjoy delicious meals prepared with fresh local ingredients and relax in the tranquility of nature. With its warm hospitality and serene ambiance, Mountain Retreat Lodge offers a memorable stay for nature lovers.",
+        "price": 100,
+        "ratings": 4.0
+    },
+    {
+        "id": "H0t3l7",
+        "title": "Sunset View Inn",
+        "location": "Cox's Bazar",
+        "img": "https://i.postimg.cc/pTKTbhyK/pic-7.jpg",
+        "guests_number": 12,
+        "rooms": 6,
+        "beds": 4,
+        "description": "Sunset View Inn offers a cozy stay with panoramic views of the sunset over Cox's Bazar beach. Guests can relax in comfortable rooms and enjoy warm hospitality from attentive staff. The inn provides easy access to the beach, allowing guests to stroll along the sandy shores or take part in water sports activities. Visitors can dine at the on-site restaurant, serving a variety of local and international dishes. With its convenient location and affordable rates, Sunset View Inn is ideal for budget-conscious travelers.",
+        "price": 80,
+        "ratings": 3.9
+    },
+    {
+        "id": "H0t3l8",
+        "title": "Riverfront Retreat",
+        "location": "Sundarbans",
+        "img": "https://i.postimg.cc/kXT5mdMY/pic-8.jpg",
+        "guests_number": 15,
+        "rooms": 8,
+        "beds": 5,
+        "description": "Riverfront Retreat offers a tranquil escape along the banks of the Sundarbans river. Guests can stay in comfortable cottages surrounded by lush greenery and serene water views. The retreat organizes boat tours, fishing expeditions, and birdwatching trips to explore the beauty of the mangrove forests. Visitors can enjoy delicious meals prepared with fresh local ingredients and relax in the natural surroundings. With its peaceful ambiance and personalized service, Riverfront Retreat provides an unforgettable retreat for nature enthusiasts.",
+        "price": 120,
+        "ratings": 4.2
+    },
+    {
+        "id": "H0t3l9",
+        "title": "Hilltop Haven Resort",
+        "location": "Sylhet",
+        "img": "https://i.postimg.cc/QNktfT23/pic-9.jpg",
+        "guests_number": 8,
+        "rooms": 6,
+        "beds": 4,
+        "description": "Hilltop Haven Resort offers a secluded retreat atop the scenic hills of Sylhet. Guests can stay in cozy cottages with panoramic views of the surrounding valleys and tea gardens. The resort provides guided nature walks, tea estate tours, and cultural experiences to discover the charm of the region. Visitors can savor delicious meals prepared with fresh local ingredients and unwind in the tranquility of nature. With its warm hospitality and serene ambiance, Hilltop Haven Resort is perfect for a relaxing getaway.",
+        "price": 110,
+        "ratings": 4.3
+    }
+]
